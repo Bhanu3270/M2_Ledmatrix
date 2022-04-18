@@ -1,9 +1,10 @@
- {
+{
     "configurations": [
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**", "C:\\WinAVR-20100110\\avr\\include"
+                "${workspaceFolder}/**",
+                "C:\\WinAVR-20100110\\avr\\include"
             ],
             "defines": [
                 "_DEBUG",
@@ -14,6 +15,15 @@
             "cStandard": "gnu11",
             "cppStandard": "gnu++14",
             "intelliSenseMode": "windows-gcc-x86"
+        },
+        {
+            "name": "AVR",
+            "intelliSenseMode": "${default}",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "compilerPath": "C:\\Users\\Bhanu\\M2_Ledmatrix\\M2_Ledmatrix\\3_Implementation\\Ledmatrix.c",
+            "includePath": [],
+            "compilerArgs": []
         }
     ],
     "version": 4

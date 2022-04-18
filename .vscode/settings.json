@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "io.h": "c"
-    }
+    },
+    "AVR.source.compiler": "C:\\Users\\Bhanu\\M2_Ledmatrix\\M2_Ledmatrix\\3_Implementation\\Ledmatrix.c",
+    "AVR.programmer.tool": "C:\\Users\\Bhanu\\M2_Ledmatrix\\M2_Ledmatrix\\3_Implementation\\a.out",
+    "AVR.source.libraries": []
 }

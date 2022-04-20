@@ -1,5 +1,5 @@
 #ifndef __AVR_ATmega328P__
-#define _AVR_ATmega328p_
+#define _AVR_ATmega328_
 #endif
 #include <avr/io.h>
 #define F_CPU 11059200UL // defining crystal frequency

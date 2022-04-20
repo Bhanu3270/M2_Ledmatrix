@@ -2,7 +2,6 @@
 #define _AVR_ATmega328p_
 #endif
 #include <avr/io.h>
-
 #define F_CPU 11059200UL // defining crystal frequency
 #include <util/delay.h>  //delay header
 #define DDRB _SFR_IO8(0x04)
